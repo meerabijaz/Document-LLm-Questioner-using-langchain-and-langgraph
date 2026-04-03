@@ -72,12 +72,12 @@ vectorstore = create_vectorstore(splits)
 
 ### Running the API
 ```bash
-python api/main.py
+python -m uvicorn api.main.py --reload
 ```
 
 ### Running the Frontend
 ```bash
-python frontend/app.py
+streamlit run frontend/app.py
 ```
 
 ## Features
