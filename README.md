@@ -106,3 +106,4 @@ streamlit run frontend/app.py
 3. Test thoroughly
 4. Submit a pull request
 
+### Demo <video src="demo_GRB1w81i.mp4" width="600" controls></video>
