@@ -111,4 +111,4 @@ streamlit run frontend/app.py
 ### Demo
 [Watch Demo](./demo_GRB1w81i.mp4)
 
-### Demo <video src="demo_GRB1w81i.mp4" width="600" controls></video>
+
